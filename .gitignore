@@ -1,5 +1,5 @@
-./**/.ipynb_checkpoints
-./**/*.csv
+**/.ipynb_checkpoints
+**/*.csv
 project
 project_1
 siamese.py
